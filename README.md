@@ -48,8 +48,8 @@ Futuramente
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
-
+> Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano, identificando oportunidades para crescimento sustentável e otimização de custos, por meio da metodologia Scrum.
+> 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
