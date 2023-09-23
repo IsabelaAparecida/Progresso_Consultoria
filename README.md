@@ -44,7 +44,7 @@ Futuramente
 >[Colocar aqui uma imagem da equipe com a logo do grupo.]https://github.com/IsabelaAparecida/1Sem_essencia_progresso/blob/main/Sprint%201/EQUIPE.jpeg
 
 <p align="center">
-<img src="https://github.com/IsabelaAparecida/1Sem_essencia_progresso/blob/main/Sprint%201/EQUIPE.jpeg" width="100%/>
+<"https://github.com/IsabelaAparecida/1Sem_essencia_progresso/blob/main/Sprint%201/EQUIPE.jpeg" width="100%/>
 
 # Objetivo do Projeto
 > Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano, identificando oportunidades para crescimento sustentável e otimização de custos, por meio da metodologia Scrum.
