@@ -41,7 +41,6 @@ Futuramente
 </p>
 
 # Equipe
-<https://github.com/IsabelaAparecida/1Sem_essencia_progresso/blob/main/Sprint%201/EQUIPE.jpeg
 
 <p align="center">
 <img src= "https://github.com/IsabelaAparecida/1Sem_essencia_progresso/blob/main/Sprint%201/EQUIPE.jpeg" width="100%/></p>
