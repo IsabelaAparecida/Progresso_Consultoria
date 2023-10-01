@@ -52,12 +52,10 @@ Futuramente
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
+>*[Progresso Consultoria]
+(Equipe)(#A Equipe é composta por 7 alunos sendo: Joao Claudio- Product Owner_ Isabela Rodrigues- Scrum Master_ Equipe_de_Desenvolvimento _Mario Rodrigues_Amanda Oliveira_Henrique Gaspar_Felipe Bertollotto_Luis Henrique)
+[Objetivo do Projeto](#Objetivo do Projeto é Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano. Identificando Oportunidades de Crescimento sustentável e otimização de custos,por meio da metodologia Scrum.
+>https://github.com/IsabelaAparecida/Progresso_Consultoria/blob/main/Sprint%201/Video%20Sprint%201.mp4
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
