@@ -56,12 +56,14 @@ SPRINT 1
 
 ## Sprint 2
 
->[![Sprint 2]https://www.youtube.com/watch?v=kGLPGpjmp3E
+
+[![SPRINT 2](https://img.youtube.com/vi/kGLPGpjmp3E.jpg)](https://youtu.be/kGLPGpjmp3E)
+
 
 ## Sprint 3
 
->https://studio.youtube.com/video/yt4D8PJ2r6o/edit
 
+[![SPRINT 3](https://img.youtube.com/vi/yt4D8PJ2r6o.jpg)](https://youtu.be/yt4D8PJ2r6o)
 
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
