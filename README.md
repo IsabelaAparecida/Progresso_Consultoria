@@ -53,21 +53,15 @@ Futuramente
 
 SPRINT 1
 [![SPRINT 1](https://img.youtube.com/vi/48rzy8MuKf4/0.jpg)](https://youtu.be/48rzy8MuKf4)
-## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
-</p>
+## Sprint 2
+
+>[![Sprint 2]https://www.youtube.com/watch?v=kGLPGpjmp3E
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
-</p>
+>https://studio.youtube.com/video/yt4D8PJ2r6o/edit
+
 
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
