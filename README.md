@@ -113,7 +113,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+-Realizou-se uma análise SWOT da empresa, examinando detalhadamente seus pontos fortes, fracos, oportunidades e ameaças. 
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
