@@ -82,10 +82,17 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+- Sprint 1- análise swot;
+- Sprint 2- Previsão de Demanda;
+- Sprint 3- Curva ABC
+- Sprint 4- 
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+
+- SWOT
+- Canvas
+- Microsoft Excel
+- Power BI
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
