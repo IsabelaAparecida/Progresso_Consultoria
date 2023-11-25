@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Projeto (API) 
 
-A Doce Sabor enfrenta desafios, como a redução das vendas em padarias e lanchonetes durante o bloqueio, a dependência de vendas por impulso nesses estabelecimentos e a concorrência nos mercados. Além disso, os obstáculos para o crescimento estão ligados à administração familiar e centralizada da empresa, apesar das finanças equilibradas. A falta de investimento significativo em marketing pode impactar a visibilidade da marca. Nesse contexto, a Progresso Consultoria presta serviços à Doce Sabor para auxiliar na superação desses desafios, implementando estratégias para diversificação de canais de venda, fortalecimento da marca e melhorias na gestão administrativa. Essa parceria visa contribuir para o crescimento
+A Doce Sabor enfrenta desafios, como a redução das vendas em padarias e lanchonetes durante o Lockdown, a dependência de vendas por impulso nesses estabelecimentos e a concorrência nos mercados. Além disso, os obstáculos para o crescimento estão ligados à administração familiar e centralizada da empresa, apesar das finanças equilibradas. A falta de investimento significativo em marketing pode impactar a visibilidade da marca. Nesse contexto, a Progresso Consultoria presta serviços à Doce Sabor para auxiliar na superação desses desafios, implementando estratégias para diversificação de canais de venda, fortalecimento da marca e melhorias na gestão administrativa. Essa parceria visa contribuir para o crescimento
  sustentável da empresa.
 
 
@@ -30,10 +30,9 @@ Sprint | Previsão | Status| Histórico|
 |04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-> Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
-Futuramente
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
@@ -46,7 +45,7 @@ Futuramente
  </p>
 
 # Objetivo do Projeto
-> Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano, identificando oportunidades para crescimento sustentável e otimização de custos, por meio da metodologia Scrum.
+Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano, identificando oportunidades para crescimento sustentável e otimização de custos, por meio da metodologia Scrum.
  
 # Funcionalidades e Demonstrações das Sprints
 
