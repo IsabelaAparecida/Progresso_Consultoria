@@ -16,9 +16,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+
+A Doce Sabor enfrenta desafios, como a redução das vendas em padarias e lanchonetes durante o bloqueio, a dependência de vendas por impulso nesses estabelecimentos e a concorrência nos mercados. Além disso, os obstáculos para o crescimento estão ligados à administração familiar e centralizada da empresa, apesar das finanças equilibradas. A falta de investimento significativo em marketing pode impactar a visibilidade da marca. Nesse contexto, a Progresso Consultoria presta serviços à Doce Sabor para auxiliar na superação desses desafios, implementando estratégias para diversificação de canais de venda, fortalecimento da marca e melhorias na gestão administrativa. Essa parceria visa contribuir para o crescimento
+ sustentável da empresa.
+
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
