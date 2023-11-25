@@ -122,9 +122,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 2 - Desenvolvimento do Projeto
 
-Durante este Sprint, realizamos uma análise de previsão de demanda, empregando métodos estatísticos, através de:
+Durante esta Sprint, realizamos uma análise de previsão de demanda, empregando métodos estatísticos, através de:
 
--Media Aritmética
+- Media Aritmética
 - Regressão linear 
       
 
@@ -175,4 +175,5 @@ Durante este Sprint, realizamos uma análise de previsão de demanda, empregando
 | -| - |- |
 |Product Onwer|João Carvalho| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master|Isabela Rodrigues| 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member|Felipe Bertolotto; Luis Henrique; Mário Neto; Henrique Gaspar;Amanda Alves| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
