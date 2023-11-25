@@ -114,13 +114,24 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 
--Realizou-se uma análise SWOT da empresa, examinando detalhadamente seus pontos fortes, fracos, oportunidades e ameaças. 
+-Realizou-se uma análise SWOT da empresa,onde foram examinados:
+- pontos fortes,
+- pontos fracos, 
+-oportunidades,
+- ameaças. 
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+Durante este Sprint, realizamos uma análise de previsão de demanda, empregando métodos estatísticos, através de:
+
+-Media Aritmética
+- Regressão linear 
       
+
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+-Verificamos quais itens de Manutencao eram prioridade através de:
+
+- cálculo da curva ABC.
       
 ## Sprint 4 - Operacionalização
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
