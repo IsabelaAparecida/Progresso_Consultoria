@@ -51,7 +51,7 @@ Ajudar a empresa Doce Sabor a manter suas vendas aquecidas durante todo o ano, i
 
 SPRINT 1
 
-[![SPRINT 1]https://img.youtube.com/vi/48rzy8MuKf4/0.jpg)](https://youtu.be/48rzy8MuKf4)
+[![SPRINT 1](https://img.youtube.com/vi/48rzy8MuKf4/0.jpg)](https://youtu.be/48rzy8MuKf4)
 
 ## Sprint 2
 
