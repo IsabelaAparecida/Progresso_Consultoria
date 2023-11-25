@@ -117,7 +117,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 -Realizou-se uma análise SWOT da empresa,onde foram examinados:
 - pontos fortes,
 - pontos fracos, 
--oportunidades,
+- oportunidades,
 - ameaças. 
 
 ## Sprint 2 - Desenvolvimento do Projeto
