@@ -145,12 +145,9 @@ Durante esta Sprint, realizamos uma análise de previsão de demanda, empregando
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Metodologia Agil| ★ ★ ☆ ☆ ☆ |
+| Resolução de conflitos| ★ ★ ★ ☆ ☆ |
+| Habilidads de pesquisa| ★ ★ ★ ★ ★ 
  
 </details>
 
@@ -160,12 +157,11 @@ Durante esta Sprint, realizamos uma análise de previsão de demanda, empregando
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação Não Violenta| ★ ★ ★ ★ ★ |
+| Feedback construtivo |  ★ ★ ★ ☆ ☆ |
+|  Resiliência| ★ ★ ★ ☆ ☆  |
+|  Trabalho em equipe|  ★ ★ ★ ☆ ☆  |
+
 
 </details>
 
