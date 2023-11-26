@@ -67,20 +67,27 @@ SPRINT 1
 
 ## Tecnologias Utilizadas
 ### Produto 
-[x]Sprint 1- análise swot;
-[x]Sprint 2- Previsão de Demanda;
-[x]Sprint 3- Curva ABC
-[x]Sprint 4- novo negócio
+- [x] Análise swot;
+- [x] Previsão de Demanda;
+- [x] Curva ABC
+- [x] GitHub
 
 ### Tecnológias Específicas/Apoio
 
-[x] SWOT
-[x] Canvas
-[x]Microsoft Excel
-[x] Power BI
+- [x] SWOT
+- [x] Canvas
+- [x] Microsoft Excel
+- [x] Power BI
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+- [x] Análise swot;
+- [x] Previsão de Demanda;
+- [x] Curva ABC
+- [x] GitHub
+- [x] SWOT
+- [x] Canvas
+- [x] Microsoft Excel
+- [x] Power BI
 
 # Cronograma das Sprints
 
@@ -106,28 +113,47 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 
--Realizou-se uma análise SWOT da empresa,onde foram examinados:
-- pontos fortes,
-- pontos fracos, 
-- oportunidades,
-- ameaças. 
+- [x]Definir nome da Consultoria
+- [x]Definir logo da Consultoria
+- [x]Apresentação da Empresa
+- [x] Troca de ideias
+- [x]Definir as Soluções
+- [x]Análise SWOT
+- [x]Gravar os Áudios
+- [x]Montagem do Vídeo
 
 ## Sprint 2 - Desenvolvimento do Projeto
 
-Durante esta Sprint, realizamos uma análise de previsão de demanda, empregando métodos estatísticos, através de:
-
-- Media Aritmética
-- Regressão linear 
-      
-
+- [x]Previsão de Demanda
+- [x]calcular a média Aritmetica
+- [x]Calcular a Regressão linear
+- [x]Fazer a Introdução
+- [x]montagem dos Gráficos
+- [x]Fazer Conclusão
+- [x]gravar os áudios
+- [x]montagem do vídeo
+   
 ## Sprint 3 - Implementação
--Verificamos quais itens de Manutencao eram prioridade através de:
 
-- cálculo da curva ABC.
-      
+- [x]Fazer os Calculos da Curva ABC
+- [x]analise da Curva ABC
+- [x]Fazer a Introdução
+- [x]montagem dos Gráficos
+- [x]Fazer Conclusão
+- [x]gravar os áudios
+- [x]montagem do vídeo
+
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
+- [x]Troca de Ideias
+- [x]Decidir o Novo Negócio
+- [x]Elaboração do Canvas
+- [x]Analise Swot
+- [x] Fazer a Introdução
+- [x]Apresentação da ideia de negócio
+- [x]Fazer Conclusão
+- [x]gravar os áudios
+- [x]montagem do vídeo
 
 # Competências desenvolvidas
 
