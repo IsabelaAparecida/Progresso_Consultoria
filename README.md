@@ -65,18 +65,6 @@ SPRINT 1
 ## Sprint 4
 [![SPRINT 4](https://img.youtube.com/vi/n4ZTOgm7DQg/0.jpg)](https://youtube.com/embed/n4ZTOgm7DQg/0.jpg)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
-
 ## Tecnologias Utilizadas
 ### Produto 
 - Sprint 1- análise swot;
