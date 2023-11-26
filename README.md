@@ -17,8 +17,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Projeto (API) 
 
-A Doce Sabor enfrenta desafios, como a redução das vendas em padarias e lanchonetes durante o Lockdown, a dependência de vendas por impulso nesses estabelecimentos e a concorrência nos mercados. Além disso, os obstáculos para o crescimento estão ligados à administração familiar e centralizada da empresa, apesar das finanças equilibradas. A falta de investimento significativo em marketing pode impactar a visibilidade da marca. Nesse contexto, a Progresso Consultoria presta serviços à Doce Sabor para auxiliar na superação desses desafios, implementando estratégias para diversificação de canais de venda, fortalecimento da marca e melhorias na gestão administrativa. Essa parceria visa contribuir para o crescimento
- sustentável da empresa.
+A Doce Sabor enfrenta desafios, como a redução das vendas em padarias e lanchonetes durante o Lockdown, a dependência de vendas por impulso nesses estabelecimentos e a concorrência nos mercados.
+Além disso, os obstáculos para o crescimento estão ligados à administração familiar e centralizada da empresa, apesar das finanças equilibradas.A falta de investimento significativo em marketing pode impactar a visibilidade da marca. Nesse contexto, a Progresso Consultoria presta serviços à Doce Sabor para auxiliar na superação desses desafios,implementando estratégias para diversificação de canais de venda, fortalecimento da marca e melhorias na gestão administrativa.Essa parceria visa contribuir para o crescimento sustentável da empresa.
 
 
 Sprint | Previsão | Status| Histórico|
