@@ -113,47 +113,47 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 
-- [x]Definir nome da Consultoria
-- [x]Definir logo da Consultoria
-- [x]Apresentação da Empresa
+- [x] Definir nome da Consultoria
+- [x] Definir logo da Consultoria
+- [x] Apresentação da Empresa
 - [x] Troca de ideias
-- [x]Definir as Soluções
-- [x]Análise SWOT
-- [x]Gravar os Áudios
-- [x]Montagem do Vídeo
+- [x] Definir as Soluções
+- [x] Análise SWOT
+- [x] Gravar os Áudios
+- [x] Montagem do Vídeo
 
 ## Sprint 2 - Desenvolvimento do Projeto
 
-- [x]Previsão de Demanda
-- [x]calcular a média Aritmetica
-- [x]Calcular a Regressão linear
-- [x]Fazer a Introdução
-- [x]montagem dos Gráficos
-- [x]Fazer Conclusão
-- [x]gravar os áudios
-- [x]montagem do vídeo
+- [x] Previsão de Demanda
+- [x] calcular a média Aritmetica
+- [x] Calcular a Regressão linear
+- [x] Fazer a Introdução
+- [x] montagem dos Gráficos
+- [x] Fazer Conclusão
+- [x] gravar os áudios
+- [x] montagem do vídeo
    
 ## Sprint 3 - Implementação
 
-- [x]Fazer os Calculos da Curva ABC
-- [x]analise da Curva ABC
-- [x]Fazer a Introdução
-- [x]montagem dos Gráficos
-- [x]Fazer Conclusão
-- [x]gravar os áudios
-- [x]montagem do vídeo
+- [x] Fazer os Calculos da Curva ABC
+- [x] analise da Curva ABC
+- [x] Fazer a Introdução
+- [x] montagem dos Gráficos
+- [x] Fazer Conclusão
+- [x] gravar os áudios
+- [x] montagem do vídeo
 
 ## Sprint 4 - Operacionalização
 
-- [x]Troca de Ideias
-- [x]Decidir o Novo Negócio
-- [x]Elaboração do Canvas
-- [x]Analise Swot
+- [x] Troca de Ideias
+- [x] Decidir o Novo Negócio
+- [x] Elaboração do Canvas
+- [x] Analise Swot
 - [x] Fazer a Introdução
-- [x]Apresentação da ideia de negócio
-- [x]Fazer Conclusão
-- [x]gravar os áudios
-- [x]montagem do vídeo
+- [x] Apresentação da ideia de negócio
+- [x] Fazer Conclusão
+- [x] gravar os áudios
+- [x] montagem do vídeo
 
 # Competências desenvolvidas
 
