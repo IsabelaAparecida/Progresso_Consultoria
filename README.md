@@ -70,11 +70,11 @@ SPRINT 1
 - Sprint 1- análise swot;
 - Sprint 2- Previsão de Demanda;
 - Sprint 3- Curva ABC
-- Sprint 4- 
+- Sprint 4- novo negócio
 
 ### Tecnológias Específicas/Apoio
 
-- SWOT
+[x] SWOT
 - Canvas
 - Microsoft Excel
 - Power BI
