@@ -63,7 +63,7 @@ SPRINT 1
 [![SPRINT 3](https://img.youtube.com/vi/yt4D8PJ2r6o/0.jpg)](https://youtu.be/yt4D8PJ2r6o/0.jpg)
 
 ## Sprint 4
-[![SPRINT 4](https://github.com/IsabelaAparecida/Progresso_Consultoria/blob/main/Sprint%204/Sprint%204.mp4/0.jpg)](https://www.youtube.com/watch?v=n4ZTOgm7DQg/0.jpg).
+[![SPRINT 4](https://img.youtube.com/v=n4ZTOgm7DQg/0.jpg)](https://youtu.be/v=n4ZTOgm7DQg/0.jpg)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
