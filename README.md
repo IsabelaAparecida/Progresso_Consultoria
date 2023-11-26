@@ -54,13 +54,13 @@ SPRINT 1
 ## Sprint 2
 
 
-[![SPRINT 2](https://img.youtube.com/vi/kGLPGpjmp3E.jpg)](https://youtu.be/kGLPGpjmp3E)
+[![SPRINT 2](https://img.youtube.com/vi/kGLPGpjmp3E/0.jpg)](https://youtu.be/kGLPGpjmp3E/0.jpg)
 
 
 ## Sprint 3
 
 
-[![SPRINT 3](https://img.youtube.com/vi/yt4D8PJ2r6o.jpg)](https://youtu.be/yt4D8PJ2r6o)
+[![SPRINT 3](https://img.youtube.com/vi/yt4D8PJ2r6o/0.jpg)](https://youtu.be/yt4D8PJ2r6o/0.jpg)
 
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
