@@ -67,17 +67,17 @@ SPRINT 1
 
 ## Tecnologias Utilizadas
 ### Produto 
-- Sprint 1- análise swot;
-- Sprint 2- Previsão de Demanda;
-- Sprint 3- Curva ABC
-- Sprint 4- novo negócio
+[x]Sprint 1- análise swot;
+[x]Sprint 2- Previsão de Demanda;
+[x]Sprint 3- Curva ABC
+[x]Sprint 4- novo negócio
 
 ### Tecnológias Específicas/Apoio
 
 [x] SWOT
-- Canvas
-- Microsoft Excel
-- Power BI
+[x] Canvas
+[x]Microsoft Excel
+[x] Power BI
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
