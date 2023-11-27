@@ -98,7 +98,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+[backlog certo](https://github.com/IsabelaAparecida/Progresso_Consultoria/blob/main/Sprint%204/imagem/backlog%20certo.png/pt)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
