@@ -179,12 +179,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  Trabalho em equipe|  ★ ★ ★ ☆ ☆  |
 
 
-</details>
+</details>  in/isabela-rodrigues-21025015a
 
 
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | -| - |- |
 |Product Onwer|João Carvalho| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master|Isabela Rodrigues| [![Linkedin Badge](in/isabela-rodrigues-21025015a)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master|Isabela Rodrigues| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](in/isabela-rodrigues-21025015a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member|Amanda Alves| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-oliveira-a541a7161?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
