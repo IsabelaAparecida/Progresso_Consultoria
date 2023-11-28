@@ -104,10 +104,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+ <img src="https://github.com/IsabelaAparecida/Progresso_Consultoria/blob/main/Sprint%204/imagem/BURNDOWN%20GITHUB.png" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção
