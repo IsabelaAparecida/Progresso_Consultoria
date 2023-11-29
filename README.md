@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 24/09/2023 | concluido| [Ver Relatório](https://github.com/users/IsabelaAparecida/projects/2/views/4) | 
 |02|  15/10/2023| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03|  05/11/2023 | concluido|[Ver Relatório]( https://github.com/users/IsabelaAparecida/projects/2/views/6) | 
-|04| 26/11/2023 |a fazer |[Ver Relatório](https://github.com/users/IsabelaAparecida/projects/2/views/5?filterQuery=) |
+|04| 26/11/2023 |Concluido |[Ver Relatório](https://github.com/users/IsabelaAparecida/projects/2/views/5?filterQuery=) |
 
 # Micro Certificações
 
