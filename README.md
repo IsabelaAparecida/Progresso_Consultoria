@@ -179,7 +179,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |  Trabalho em equipe|  ★ ★ ★ ☆ ☆  |
 
 
-</details>  in/isabela-rodrigues-21025015a
+</details> 
 
 
 # Autores
